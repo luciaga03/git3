@@ -1,1 +1,2 @@
 contenido del fichero
+alumno1 >> trabajo
