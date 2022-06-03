@@ -1,2 +1,4 @@
 contenido del fichero
 alumno1 >> trabajo
+alumno2 >> trabajo
+
